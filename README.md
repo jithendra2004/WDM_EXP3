@@ -155,6 +155,7 @@ def visualize_patterns_line(result, category):
 visualize_patterns_line(top_wear_result, 'Top Wear')
 visualize_patterns_line(bottom_wear_result, 'Bottom Wear')
 visualize_patterns_line(party_wear_result, 'Party Wear')
+
 ~~~
 ~~~
 ### Output:
