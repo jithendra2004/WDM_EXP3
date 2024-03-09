@@ -41,7 +41,7 @@ for each wear category.</p>
 NAME:V.A.JITHENDRA
 REG.NO:212221230043
 ~~~
-```python
+~~~
 from collections import defaultdict
 from itertools import combinations
 
@@ -125,12 +125,13 @@ if party_wear_result:
         print(f"Pattern: {pattern}, Support: {support}")
 else:
     print("No frequent sequential patterns found in Party Wear.")
-```
+~~~
+~~~
 ### Output:
 ![image](https://github.com/jithendra2004/WDM_EXP3/assets/94226297/2f7c6821-4880-4a87-bd0f-ea2cbd6eb3a4)
-
+~~~
 ### Visualization:
-```python
+~~~
 import matplotlib.pyplot as plt
 
 # Function to visualize frequent sequential patterns with a line plot
@@ -154,10 +155,11 @@ def visualize_patterns_line(result, category):
 visualize_patterns_line(top_wear_result, 'Top Wear')
 visualize_patterns_line(bottom_wear_result, 'Bottom Wear')
 visualize_patterns_line(party_wear_result, 'Party Wear')
-```
+~~~
+~~~
 ### Output:
 ![image](https://github.com/jithendra2004/WDM_EXP3/assets/94226297/6801a1ae-158b-4810-9c0b-face172cfb62)
 
 ![image](https://github.com/jithendra2004/WDM_EXP3/assets/94226297/b2f89429-988e-43e7-962a-398afd4547dd)
-
+~~~
 ### Result:
