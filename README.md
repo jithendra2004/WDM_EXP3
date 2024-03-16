@@ -168,3 +168,4 @@ visualize_patterns_line(party_wear_result, 'Party Wear')
 ![image](https://github.com/jithendra2004/WDM_EXP3/assets/94226297/b2f89429-988e-43e7-962a-398afd4547dd)
 
 ### Result:
+Thus the experiment was successfully executed
